@@ -1,0 +1,29 @@
+figure.cover-box-50
+		{
+		width: 49%!important;
+		}
+		figure.cover-box-25
+		{
+		width: 24%!important;
+		}
+		figure.cover-box-sc
+		{
+		width: 12%!important;
+		} 
+		.figure-caption {
+   		 text-align: center;
+		}
+		figure.cover-box-sc img
+		{
+		border-radius: 100px!important;
+		}
+		.h2-head-text
+		{
+			background-color: #dcdcdc;
+			padding:8px;
+		}
+		.h2-head-text h2
+		{
+			font-size: 18px;
+			margin:0px!important;
+		}
